@@ -5,12 +5,13 @@
     android:layout_height="match_parent"
     tools:context="com.pujolsluis.ceiss.android.ceiss.MainActivity">
 
-
+    <!-- red gradient background-->
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/gradient"/>
 
+    <!--Logo of committee-->
     <ImageView
         android:id="@+id/logo_ceiss"
         android:layout_width="220dp"
@@ -21,6 +22,7 @@
         android:layout_centerVertical="true"
         android:background="#03000000"/>
 
+    <!--Subscribe button-->
     <Button
         android:id="@+id/subscribe_buttonView"
         android:layout_width="wrap_content"

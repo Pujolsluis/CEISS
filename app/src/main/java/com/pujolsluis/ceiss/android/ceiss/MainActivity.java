@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //Button to subscribe to the mailing list
         Button subscribeBtn = (Button) findViewById(R.id.subscribe_buttonView);
 
         subscribeBtn.setOnClickListener(new View.OnClickListener() {
