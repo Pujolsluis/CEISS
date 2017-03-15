@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">CEISS</string>
     <string name="welcome_message">Welcome to the Oficial CEISS App!</string>
+    <string name="subscribe_btn_txt">Subscribe</string>
 </resources>
